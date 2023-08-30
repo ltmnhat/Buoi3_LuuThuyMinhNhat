@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\ToaDo\bin\Debug\ToaDo.exe.config
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\ToaDo\bin\Debug\ToaDo.exe
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\ToaDo\bin\Debug\ToaDo.pdb
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\ToaDo\obj\Debug\ToaDo.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\ToaDo\obj\Debug\ToaDo.exe
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\ToaDo\obj\Debug\ToaDo.pdb
