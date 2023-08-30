@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\TamGiac\TamGiac\bin\Debug\TamGiac.exe.config
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\TamGiac\TamGiac\bin\Debug\TamGiac.exe
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\TamGiac\TamGiac\bin\Debug\TamGiac.pdb
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\TamGiac\TamGiac\obj\Debug\TamGiac.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\TamGiac\TamGiac\obj\Debug\TamGiac.exe
+E:\LuuDuLieuSinhVien\03_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\Chuong1_LuuThuyMinhNhat\TamGiac\TamGiac\obj\Debug\TamGiac.pdb
